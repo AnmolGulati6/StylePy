@@ -1,6 +1,5 @@
 ### README.md:
 
-```markdown
 # StylePy: Neural Style Transfer with PyTorch
 
 Explore the artistic blending of images with StylePy, a Python library built on PyTorch that implements cutting-edge neural style transfer algorithms. Perfect for developers, researchers, and artists interested in image processing and artificial intelligence.
